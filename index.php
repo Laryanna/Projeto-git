@@ -1,5 +1,5 @@
 <?php
-echo "<h1>Meu primeiro site"</h1>;
+echo "<h1 style="color:red";>Meu primeiro site"</h1>;
 echo "Olá mundo";
 
 ?>
